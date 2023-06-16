@@ -23,4 +23,4 @@ This model have 8 class such as :
 
 ### [Model Detection](https://github.com/C23-PS286-Capstone-Project/skinsight-machine-learning/blob/main/Notebook/SkinSight_ModelV2.ipynb)
 #### Dataset (annotated Pascal VOC) : https://universe.roboflow.com/phamphong/skin-tybfq/dataset/5 
-This model detect wrinkle, skinredness, vascular, melasma, darkcircle on face. 
+This model detect wrinkle, skinredness, vascular, melasma, darkcircle on face. From this detection with some criteria this model can determine premature aging or not
